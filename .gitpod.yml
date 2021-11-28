@@ -1,4 +1,6 @@
 # For more details, please see https://www.gitpod.io/docs/references/gitpod-yml
+image: gitpod/workspace-postgres
+
 tasks:
   - init: npm install
     command: |
@@ -8,6 +10,8 @@ tasks:
 ports:
   - port: 3000
     onOpen: open-browser
+  - port: 5432
+    onOpen: ignore
 
 vscode:
   extensions:
