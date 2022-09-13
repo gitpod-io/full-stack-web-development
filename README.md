@@ -1,6 +1,6 @@
-# Full Stack Web Development in the Cloud
+# TodoSlick
 
-This repository contains the source code for the [Full Stack Web Development in the Cloud](https://youtu.be/OUzaUJ3gEug) course.
+This is a full fledged fullstack todos app.
 
 ## Architecture
 
