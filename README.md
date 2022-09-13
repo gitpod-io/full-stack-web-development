@@ -6,7 +6,7 @@ This is a full fledged fullstack todos app.
 
 The diagram below outlines the high-level architecture and the hosting providers for the web application, API and database.
 
-![image](https://user-images.githubusercontent.com/788827/145879564-e7dc42d6-3055-492b-95d7-902e9a5fad96.png)
+![image](https://github.com/m-housni/todo-slick/blob/main/static/Screenshot%202022-09-13%20211644.png?raw=true)
 
 ## Ephemeral developer environments
 
