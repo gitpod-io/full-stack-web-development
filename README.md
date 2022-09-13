@@ -14,7 +14,7 @@ The entire app was developed using [Gitpod](https://www.gitpod.io/). For each ta
 
 ## Technology stack
 
-The course leverages the following technologies.
+The app leverages the following technologies.
 
 **Web application**
 
