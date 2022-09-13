@@ -33,7 +33,3 @@ The app leverages the following technologies.
 **Deployment**
 
 The web application and API are hosted on [Vercel](https://vercel.com/) whereas the database lives on [Railway](https://railway.app/).
-
-## Pull requests
-
-Each section of the course has [a corresponding pull request](https://github.com/gitpod-io/full-stack-web-development/pulls?q=is%3Apr+is%3Aclosed). If you get stuck, make sure you check out the source code to copy & paste what you need.
